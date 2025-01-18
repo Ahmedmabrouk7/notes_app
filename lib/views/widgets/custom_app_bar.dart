@@ -9,9 +9,9 @@ class CustomAppBar extends StatelessWidget {
     return Row(
       children: const [
         Text(
-          "Ahmed Mabrouk's Notes",
+          "A. Mabrouk's Notes",
           style: TextStyle(
-            fontSize: 28,
+            fontSize: 24,
           ),
         ),
         Spacer(),
