@@ -1,3 +1,3 @@
 import 'package:flutter/animation.dart';
 
-const kPrimaryColor = Color(0xff3dffd0);
+const kPrimaryColor = Color.fromARGB(255, 255, 153, 0);
