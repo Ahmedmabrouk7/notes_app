@@ -6,7 +6,7 @@ void main() {
 }
 
 class NotesApp extends StatelessWidget {
-  const NotesApp({Key? key}) : super(key: key);
+  const NotesApp({super.key});
 
   // This widget is the root of your application.
   @override

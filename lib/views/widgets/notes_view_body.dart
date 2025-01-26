@@ -14,7 +14,10 @@ class NotesViewBody extends StatelessWidget {
           SizedBox(
             height: 50,
           ),
-          CustomAppBar(),
+          CustomAppBar(
+            title: "A. Mabrouk' Notessss",
+            icon: Icons.search,
+          ),
           Expanded(child: NotesListView()),
         ],
       ),
